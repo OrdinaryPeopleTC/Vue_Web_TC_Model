@@ -1,2 +1,24 @@
-# Vue_Web_TC_Model
-一个简单的Vue 项目模板程序 -顺缘更新
+# vue_web_tc_model
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
